@@ -16,3 +16,32 @@ uploads/*
 !uploads/.gitkeep
 chroma_db/*
 !chroma_db/.gitkeep
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+backend/.env
+
+# Logs
+*.log
+uvicorn.err.log
+uvicorn.out.log
+
+# Database
+chat_history.db
+
+# Chroma Vector DB
+backend/chroma_db/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# Refact
+.refact/
