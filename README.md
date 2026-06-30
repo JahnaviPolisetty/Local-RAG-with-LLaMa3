@@ -1,8 +1,8 @@
 <div align="center">
 
-# Intelligent Document Assistant using Local RAG and Llama 3
+# Local RAG with Llama 3
 
-### A local-first AI document assistant built with FastAPI, React, ChromaDB, Ollama, and Llama 3.
+### A Full-Stack Retrieval-Augmented Generation (RAG) Application for AI-Powered Document Retrieval, Semantic Search, and Context-Aware Question Answering
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
