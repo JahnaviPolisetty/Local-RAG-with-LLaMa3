@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111827;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+textarea {
+  resize: none;
+}
